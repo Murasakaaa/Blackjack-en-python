@@ -1,6 +1,15 @@
 # Blackjack-en-python
 Jeu du Blackjack en python simplifié avec la *programmation orientée objet*.
 
+# Comment jouer
+
+Vous avez juste a telecharger le fichier `PythonBlackjack.py` et à l'ouvrir dans un IDE pour pouvoir l'executer et le programme fonctionnera tout simplement.  
+Sinon avec python d'installer sur votre machine, vous n'avez qu'à juste vous placer dans le répertoire où se situe le fichier et faire :
+
+```sh
+python PythonBlackjack.py
+```
+
 # Présentation du programme
 
 Le programme reprend d’une manière simplifiée, le jeu du Blackjack que l’on retrouve 
